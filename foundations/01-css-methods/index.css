@@ -1,0 +1,22 @@
+.red {
+    background-color: red; 
+    color: whitesmoke;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.green {
+    background-color: green;
+    color: whitesmoke;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+.orange {
+    background-color: orange;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    ;
+}
